@@ -82,6 +82,7 @@ LEAN UX principles help us establish a new work culture for ourselves.
 ## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
+* [UX — LEAN UX](https://medium.com/@mafda_/ux-lean-ux-30ae46132a14)
 * [Flowchart](https://whimsical.com/)
 
 ---
