@@ -1,14 +1,14 @@
 # LEAN UX
 
-Lean UX is based on **Design Thinking**, **Agile Methodology**, and **Lean Startup**. 
+Lean UX is based on **Design Thinking**, **Agile Methodology**, and **Lean Startup**.  
 
-Lean UX are agile teams focused on User Experience.
+Lean UX is agile teams focused on User Experience.
 
 ![LEAN UX](img/lean_ux_by_mafda@2x.png)
 
 ### Design Thinking
 
-Design Thinking seeks to see everything through the **user's eyes**.
+Design Thinking seeks to see everything through the **user's eyes**
 
 ![design thinking](img/double_diamond_by_mafda@2x.png)
 
@@ -16,7 +16,7 @@ Design Thinking seeks to see everything through the **user's eyes**.
 
 ### Agile Methodology
 
-Agile Methodology allows you **create things continuosly** and establish an improvement process each time a product is delivered.
+Agile Methodology allows you **to create things continuously** and establish an improvement process each time a product is delivered.
 
 ![agile methodology](img/scrum_by_mafda@2x.png)
 
@@ -34,21 +34,21 @@ Lean Startup seeks to **bring ideas** as soon as possible to the market to obtai
 
 LEAN UX principles help us establish a new work culture for ourselves.
 
-1. Multidisciplinary teams: It is very important to work with people who can work well in all areas of development.
-2. Small, dedicated and united teams: It needs to be a small team to ensure control, in which everyone knows each other.
+1. Multidisciplinary teams: It is essential to work with people who can work well in all areas of development.
+2. Small, dedicated, and united groups: It needs to be a small team to ensure control, in which everyone knows each other.
 3. Progress: It needs to be worked on in terms of value, not functionalities or products.
 4. Problem-focused teams: It can not focus on features, but rather on problems to be solved.
-5. Remove the waste: Whatever is not useful, do not build, do not spend money for nothing.
-6. Small deliveries: It needs to be small to have more feedbacks, as soon as possible, to fail fast, but to succeed quickly.
-7. Continuos delivery: The user should be seeing what is being built to know that the product will be useful.
-8. Goob (Get Out Of the Building): You need to see the world through the eyes of the user.
+5. Remove the waste: Whatever is not useful, do not build; do not spend money on anything.
+6. Small deliveries: It needs to be little to have more feedbacks, as soon as possible, to fail fast, but to succeed quickly.
+7. Continuous delivery: The user should be seeing what is being built on knowing that it will be useful.
+8. Goob (Get Out Of the Building): You need to know the world through the user's eyes.
 9. Shared knowledge: The team needs to understand the problem they are attacking and have the same view of the product.
-10. Leveled times: Do not have any stars on the team. If the team is level, it advances along.
+10. Leveled times: Do not have any stars on the team. If the group is level, it advances along.
 11. Try to outsource your work: It is good to have an environment that values innovation and promote a collaborative environment.
-12. Making over analizing: Try to create more than analyze. Try to get feedback as soon as possible.
-13. Learn before climbing: Instead of creating a giant product, first learn with the user.
+12. Making over-analyzing: Try to create more than explain. Try to get feedback as soon as possible.
+13. Learn before climbing: Instead of creating a giant product, first, learn with the user.
 14. Permission to fail: You should create an environment conducive to testing, not an environment conducive to negligence failures.
-15. Quit the business of deliverables: Documents are important for understanding decisions, but the team should focus on functionalities.
+15. Quit the business of deliverables: Documents are essential for understanding decisions, but the team should focus on functionalities.
 
 > Read more in [The 3 foundations of Lean UX](https://www.oreilly.com/content/the-3-foundations-of-lean-ux/).
 
