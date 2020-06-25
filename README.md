@@ -34,6 +34,23 @@ Lean Startup seeks to **bring ideas** as soon as possible to the market to obtai
 
 LEAN UX principles help us establish a new work culture for ourselves.
 
+1. Multidisciplinary teams: It is very important to work with people who can work well in all areas of development.
+2. Small, dedicated and united teams: It needs to be a small team to ensure control, in which everyone knows each other.
+3. Progress: It needs to be worked on in terms of value, not functionalities or products.
+4. Problem-focused teams: It can not focus on features, but rather on problems to be solved.
+5. Remove the waste: Whatever is not useful, do not build, do not spend money for nothing.
+6. Small deliveries: It needs to be small to have more feedbacks, as soon as possible, to fail fast, but to succeed quickly.
+7. Continuos delivery: The user should be seeing what is being built to know that the product will be useful.
+8. Goob (Get Out Of the Building): You need to see the world through the eyes of the user.
+9. Shared knowledge: The team needs to understand the problem they are attacking and have the same view of the product.
+10. Leveled times: Do not have any stars on the team. If the team is level, it advances along.
+11. Try to outsource your work: It is good to have an environment that values innovation and promote a collaborative environment.
+12. Making over analizing: Try to create more than analyze. Try to get feedback as soon as possible.
+13. Learn before climbing: Instead of creating a giant product, first learn with the user.
+14. Permission to fail: You should create an environment conducive to testing, not an environment conducive to negligence failures.
+15. Quit the business of deliverables: Documents are important for understanding decisions, but the team should focus on functionalities.
+
+> Read more in [The 3 foundations of Lean UX](https://www.oreilly.com/content/the-3-foundations-of-lean-ux/).
 
 ## Interesting books
 
@@ -48,13 +65,18 @@ LEAN UX principles help us establish a new work culture for ourselves.
 * [Scrum Checklist](https://www.crisp.se/gratis-material-och-guider/scrum-checklist)
 * [Scrum Checklist - the unofficial](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
 * [Lean Start Up Checklist](http://shb.export-entreprises.com/ressources/features/lean-startup-strategy.pdf)
-* [THE LEAN STARTUPMETHODOLOGY](http://theleanstartup.com/principles)
+* [The Lean Startup Methodology](http://theleanstartup.com/principles)
 
 
 ## More interesting links
 
-* [“The Lean Startup” Summary and Review](https://medium.com/west-stringfellow/the-lean-startup-summary-and-review-5054675ff095)
 * [The Most Complete Design Thinking Tools & Resource Collections](https://www.mockplus.com/blog/post/design-thinking-tools)
+* [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
+* [“The Lean Startup” Summary and Review](https://medium.com/west-stringfellow/the-lean-startup-summary-and-review-5054675ff095)
+* [Complete Guide to Lean UX](https://www.justinmind.com/blog/complete-guide-to-lean-ux/)
+* [Lean UX: definition, process, and a detailed case study](https://www.hotjar.com/blog/lean-ux/)
+* [The Beginner’s Guide to Lean UX](https://www.springboard.com/blog/beginners-guide-to-lean-ux/)
+* [The Lean UX Manifesto: Principle-Driven Design](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/#top)
 
 
 ## Reference
