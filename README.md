@@ -1,8 +1,25 @@
+**Table of Contents**
+
+- [LEAN UX](#lean-ux)
+  - [Based on](#based-on)
+    - [Design Thinking](#design-thinking)
+    - [Agile Methodology](#agile-methodology)
+    - [Lean Startup](#lean-startup)
+  - [LEAN UX Principles](#lean-ux-principles)
+  - [Interesting books](#interesting-books)
+  - [Interesting links](#interesting-links)
+  - [Lean UX checklist](#lean-ux-checklist)
+  - [Other repositories](#other-repositories)
+  - [Reference](#reference)
+
 # LEAN UX
+
+Lean UX is agile teams focused on User Experience.
+
+## Based on
 
 Lean UX is based on **Design Thinking**, **Agile Methodology**, and **Lean Startup**.  
 
-Lean UX is agile teams focused on User Experience.
 
 ![LEAN UX](img/lean_ux_by_mafda@2x.png)
 
@@ -59,16 +76,7 @@ LEAN UX principles help us establish a new work culture for ourselves.
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 
-## Lean UX checklist
-
-* [Design Thinking Questions Checklist](https://static1.squarespace.com/static/5afaca8c1aef1d704a6eaace/t/5b6fd5a44d7a9c3255891749/1534055845039/Design+Thinking+Questions+handout.pdf)
-* [Scrum Checklist](https://www.crisp.se/gratis-material-och-guider/scrum-checklist)
-* [Scrum Checklist - the unofficial](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
-* [Lean Start Up Checklist](http://shb.export-entreprises.com/ressources/features/lean-startup-strategy.pdf)
-* [The Lean Startup Methodology](http://theleanstartup.com/principles)
-
-
-## More interesting links
+## Interesting links
 
 * [The Most Complete Design Thinking Tools & Resource Collections](https://www.mockplus.com/blog/post/design-thinking-tools)
 * [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
@@ -77,6 +85,19 @@ LEAN UX principles help us establish a new work culture for ourselves.
 * [Lean UX: definition, process, and a detailed case study](https://www.hotjar.com/blog/lean-ux/)
 * [The Beginner’s Guide to Lean UX](https://www.springboard.com/blog/beginners-guide-to-lean-ux/)
 * [The Lean UX Manifesto: Principle-Driven Design](https://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/#top)
+
+## Lean UX checklist
+
+* [Design Thinking Questions Checklist](https://static1.squarespace.com/static/5afaca8c1aef1d704a6eaace/t/5b6fd5a44d7a9c3255891749/1534055845039/Design+Thinking+Questions+handout.pdf)
+* [Scrum Checklist](https://www.crisp.se/gratis-material-och-guider/scrum-checklist)
+* [Scrum Checklist - the unofficial](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
+* [Lean Start Up Checklist](http://shb.export-entreprises.com/ressources/features/lean-startup-strategy.pdf)
+* [The Lean Startup Methodology](http://theleanstartup.com/principles)
+
+## Other repositories
+
+* [UX Tools](https://github.com/mafda/ux_tools)
+* [Design Sprint](https://github.com/mafda/ux_design_sprint)
 
 
 ## Reference
